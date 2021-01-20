@@ -2,7 +2,7 @@
 
 # LOGIN PAGE :milky_way:
 
-<img alt="JinxedFixed" src="./git_assets/wp.gif" />
+<img alt="JinxedFixed" src="./examples/front.jpg" />
 <blockquote >"You have to be lost to find places that can't be found"</blockquote>
 </br>
 </div>
