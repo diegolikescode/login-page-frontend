@@ -2,7 +2,7 @@
 
 # LOGIN PAGE :milky_way:
 
-<img alt="longRoadAhead" src="https://verdict.co.uk/wp-content/uploads/2017/09/giphy-downsized-large.gif" />
+<img alt="JinxedFixed" src="./git_assets/wp.gif" />
 <blockquote >"You have to be lost to find places that can't be found"</blockquote>
 </br>
 </div>
