@@ -1,6 +1,13 @@
-# LoginPageFrontend
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+# LOGIN PAGE :milky_way:
+
+<img alt="longRoadAhead" src="https://www.verdict.co.uk/wp-content/uploads/2017/09/giphy-downsized-large.gif" />
+<blockquote >"You have to be lost to find places that can't be found"</blockquote>
+</br>
+</div>
+
+Here is a login page frontend
 
 ## Development server
 
@@ -22,6 +29,24 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## :new_moon: POOL OF TODOS
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* [ ] Think about the basic structure
+
+</br>
+
+## :first_quarter_moon: DOING 
+
+<img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
+
+</br>
+
+## :full_moon: DONE (for now) ✓
+
+
+
+</br>
+
+## License
+
+MIT License © for the Login Web Project
