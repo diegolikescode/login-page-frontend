@@ -29,7 +29,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## :new_moon: POOL OF TODOS
 
 * [ ] create background for the front page
-* [ ] 
 
 </br>
 
