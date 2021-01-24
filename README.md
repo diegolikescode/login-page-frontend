@@ -28,7 +28,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] Think about the basic structure
+* [ ] create background for the front page
+* [ ] 
 
 </br>
 
@@ -40,7 +41,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :full_moon: DONE (for now) ✓
 
-
+* [x] Think about the basic structure
 
 </br>
 
