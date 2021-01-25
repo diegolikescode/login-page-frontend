@@ -1,0 +1,16 @@
+.square {
+  display: flex;
+  height: 7.2vh;
+  width: 35vh;
+  background-color: #ce6c0e;
+  border-radius: 1.4vh;
+
+  align-items: center;
+  justify-content: center;
+
+  p {
+    font-weight: 800;
+    color: #cccccc;
+    font-size: 3.9vh;
+  }
+}
