@@ -1,16 +1,33 @@
-
 .main-div {
-  .content{
-    width: 100%;
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  max-width: 100%;
+  max-height: 100%;
+
+  #backround {
     max-width: 100%;
     max-height: 100%;
-    height: auto;
-    display: flex;
-    position: fixed;
-    flex-shrink: initial;
   }
-
-  // #backround {
-
-  // }
+  .content {
+    display: flex;
+    position: absolute;
+    align-items: baseline;
+    .log {
+      width: 20vh;
+      height: 5vh;
+      font-size: 4vh;
+      padding-left: 5vh;
+      padding-top: 0.5vh;
+      font-weight: 200;
+      color: #cccccc;
+      img {
+        width: 4vh;
+        height: 4vh;
+        margin-left: 0.5vh;
+      }
+    }
+  }
 }
