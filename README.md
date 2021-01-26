@@ -28,8 +28,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] create background for the front page
-* [ ] put content in the footer
 * [ ] get rid of that yee-yee ass coffee and do somethings in photoshop with the main background
 * [ ] refactor the front page css
 
@@ -46,9 +44,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [x] think about the basic structure
 * [x] create nice svgs and a logo and stuff
 * [x] implement basic structure
+* [x] create background for the front page
+* [x] put content in the footer
 
 </br>
 
-## License
+## License  
 
-MIT License © for the Login Web Project
+MIT License © 2021 Diego Prestes, DPSynth.com
