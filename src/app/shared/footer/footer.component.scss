@@ -1,5 +1,11 @@
-.foot {
-  width: 100%;
+.main {
+  display: flex;
+  // align-items: flex-start;
+  // width: 100%;
   height: 4vh;
-  background-color: #493c32;
+  .foot {
+    width: 100%;
+    height: 4vh;
+    background-color: #493c32;
+  }
 }
