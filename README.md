@@ -29,6 +29,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## :new_moon: POOL OF TODOS
 
 * [ ] create background for the front page
+* [ ] put content in the footer
+* [ ] get rid of that yee-yee ass coffee and do somethings in photoshop with the main background
+* [ ] refactor the front page css
 
 </br>
 
@@ -40,7 +43,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :full_moon: DONE (for now) ✓
 
-* [x] Think about the basic structure
+* [x] think about the basic structure
+* [x] create nice svgs and a logo and stuff
+* [x] implement basic structure
 
 </br>
 
