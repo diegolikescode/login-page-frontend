@@ -29,6 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## :new_moon: POOL OF TODOS
 
 * [ ] get rid of that yee-yee ass coffee and do somethings in photoshop with the main background
+* [ ] make the site lighter
 * [ ] refactor the front page css
 
 </br>
