@@ -61,11 +61,16 @@
           background-color: #ce6c0e;
           border-radius: 1.4vh;
 
+          button:hover {
+            // background-color: #7A4500;
+            background-color: #000000;
+          }
+
           align-items: center;
           justify-content: center;
 
           p {
-            font-weight: 800;
+            font-weight: 100;
             color: #cccccc;
             font-size: 3.9vh;
           }

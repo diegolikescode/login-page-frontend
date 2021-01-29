@@ -28,13 +28,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] create a input button in the shared folder
-* [ ] cause the button to accept some properties
 * [ ] make the 'app-button' a (clickable) button
 * [ ] make the log button a (clickable) button
+* [ ] make a 'forgot-password' page
 * [ ] make the site lighter
 * [ ] refactor the front page css
 * [ ] make the site responsive for all screens and mobile devices
+* [ ] 
 
 </br>
 
