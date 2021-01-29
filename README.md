@@ -30,11 +30,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 * [ ] make the 'app-button' a (clickable) button
 * [ ] make the log button a (clickable) button
-* [ ] make a 'forgot-password' page
+* [ ] make a 'forgot-password' route
+* [ ] make a 'welcome page' route
 * [ ] make the site lighter
 * [ ] refactor the front page css
 * [ ] make the site responsive for all screens and mobile devices
-* [ ] 
 
 </br>
 
