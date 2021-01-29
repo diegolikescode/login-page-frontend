@@ -7,7 +7,6 @@ import { FrontPageComponent } from './front-page/front-page.component'
 import { FooterComponent } from './shared/footer/footer.component'
 import { ButtonComponent } from './shared/button/button.component'
 import { LoginPageComponent } from './login-page/login-page.component'
-import { InputButtonComponent } from './shared/input-button/input-button.component'
 
 @NgModule({
   declarations: [
@@ -16,7 +15,6 @@ import { InputButtonComponent } from './shared/input-button/input-button.compone
     FooterComponent,
     ButtonComponent,
     LoginPageComponent,
-    InputButtonComponent,
   ],
   imports: [
     BrowserModule,
