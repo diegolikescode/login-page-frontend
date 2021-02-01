@@ -28,7 +28,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] put the svgs inside the inputs in the login route
 * [ ] create a 'forgot-password' route
 * [ ] create a 'welcome page' route
 * [ ] make the site lighter
@@ -52,6 +51,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [x] get rid of that yee-yee ass coffee and do somethings in photoshop with the main background
 * [x] make the buttons a (clickable) button in the front-page
 * [x] make the buttons a (clickable) button in the login-page
+* [x] put the svgs inside the inputs in the login route
 
 </br>
 

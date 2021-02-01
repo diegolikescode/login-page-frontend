@@ -78,7 +78,6 @@
       }
 
       .input-container {
-        // margin-top: 3vh;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -86,6 +85,11 @@
         width: 41vh;
         height: 7vh;
         border-radius: 0.8vh;
+
+        img {
+          width: 3.5vh;
+          height: 3.5vh;
+        }
 
         .input-typing {
           background-color: transparent;
