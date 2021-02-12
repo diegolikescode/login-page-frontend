@@ -28,10 +28,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-* [ ] create a 'forgot-password' route
-* [ ] create a 'welcome page' route
+* [ ] connect the frontend with the login-backend
+* [ ] create connection with endpoint that creates the session (log the user in the site)
+* [ ] create connection with endpoint that creates the user
 * [ ] make the site lighter
+* [ ] create a 'welcome page' route
+* [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
+* [ ] create the 'update user' page
+* [ ] create connection with endpoint that updates the user (thats the welcome-page)
+
+## 🌗 LATER TODOS
+
+* [ ] make animations (discover more about it)
 * [ ] make the site responsive for all screens and mobile devices
+* [ ] create a 'forgot-password' route
 
 </br>
 
