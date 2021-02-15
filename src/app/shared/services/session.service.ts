@@ -1,14 +1,15 @@
 import { Injectable } from '@angular/core'
-import { WebRequestsService } from './web-requests.service'
+import LoginDTO from '../dtos/LoginDTO'
+import WebRequestsService from './web-requests.service'
 
 @Injectable({
   providedIn: 'root'
 })
-export class SessionService {
+export default class SessionService {
 
   constructor(private webRequestsService: WebRequestsService) { }
 
-  createSession(email: string, password: string) {
-    this.webRequestsService.createSession('/login', { email, password })
+  createSession({ email, password }: LoginDTO) {
+    return this.webRequestsService.createSession('/login', { email, password })
   }
 }

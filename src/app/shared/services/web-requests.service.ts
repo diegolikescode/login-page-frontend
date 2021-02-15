@@ -23,7 +23,7 @@ interface CreateUser {
 @Injectable({
   providedIn: 'root'
 })
-export class WebRequestsService {
+export default class WebRequestsService {
   readonly API_URL = 'http://localhost:3333'
 
   constructor(private http: HttpClient) { }
