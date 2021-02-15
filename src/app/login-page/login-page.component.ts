@@ -13,7 +13,9 @@ export class LoginPageComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  authenticateUser({ email, password }: LoginDTO) {
-    this.userServices.createSession({ email, password })
+  authenticateUser({ email, password }: LoginDTO): void {
+    this.userServices.createSession({ email, password }).subscribe(response => {
+      console.log(response)
+    })
   }
 }
