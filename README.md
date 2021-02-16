@@ -44,6 +44,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [ ] make animations (discover more about it)
 * [ ] make the site responsive for all screens and mobile devices
 * [ ] create a 'forgot-password' route
+* [ ] after working all, refactor all the code following [Angular Style Guide](https://angular.io/guide/styleguide)
 
 </br>
 
