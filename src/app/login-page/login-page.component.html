@@ -10,11 +10,11 @@
       </div>
 
       <div class="input-container">
-        <img src="../../assets/lock.svg" alt="password"> <input [(ngModel)]="password" type="password" class="input-typing"
-          placeholder="password">
+        <img src="../../assets/lock.svg" alt="password"> <input [(ngModel)]="password" type="password"
+          class="input-typing" placeholder="password">
       </div>
 
-      <button type="submit" (click)="authenticateUser(email, password)">
+      <button type="submit" (click)="authenticateUser()">
         <a routerLink="/welcome-page">
           <div class="square">
             <p>Login</p>

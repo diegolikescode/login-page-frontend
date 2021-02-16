@@ -28,6 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
+* [ ] review this shit
 * [ ] connect the frontend with the login-backend
 * [ ] create connection with endpoint that creates the session (log the user in the site)
 * [ ] create connection with endpoint that creates the user
@@ -36,6 +37,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
 * [ ] create the 'update user' page
 * [ ] create connection with endpoint that updates the user (thats the welcome-page)
+* [ ] search options request
 
 ## 🌗 LATER TODOS
 

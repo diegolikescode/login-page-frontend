@@ -8,6 +8,7 @@ import { FrontPageComponent } from './front-page/front-page.component'
 import { FooterComponent } from './shared/footer/footer.component'
 import { ButtonComponent } from './shared/button/button.component'
 import { LoginPageComponent } from './login-page/login-page.component'
+import { FormsModule } from '@angular/forms'
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { LoginPageComponent } from './login-page/login-page.component'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

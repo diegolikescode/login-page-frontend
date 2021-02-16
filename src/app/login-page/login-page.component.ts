@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core'
-import LoginDTO from '../shared/dtos/LoginDTO'
 import SessionService from '../shared/services/session.service'
 @Component({
   selector: 'app-login-page',
@@ -8,12 +7,17 @@ import SessionService from '../shared/services/session.service'
 })
 
 export class LoginPageComponent implements OnInit {
+  email = ''
+  password = ''
+
   constructor(private userServices: SessionService) { }
 
   ngOnInit(): void {
   }
 
-  authenticateUser({ email, password }: LoginDTO): void {
+  authenticateUser(): void {
+    const email = this.email
+    const password = this.password
     this.userServices.createSession({ email, password }).subscribe(response => {
       console.log(response)
     })
