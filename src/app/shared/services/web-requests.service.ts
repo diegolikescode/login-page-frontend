@@ -13,11 +13,9 @@ interface ShowUser {
 }
 
 interface CreateUser {
-  id: string
   name: string
   email: string
-  old_password?: string
-  new_password?: string
+  password: string
 }
 
 @Injectable({
@@ -36,8 +34,8 @@ export default class WebRequestsService {
     return this.http.get(`${this.API_URL}/${uri}/${id}`)
   }
 
-  createUser(user: CreateUser) {
-    return this.http.post(`${this.API_URL}/`, user)
+  createUser(uri: string, user: CreateUser) {
+    return this.http.post(`${this.API_URL}/${uri}`, user)
   }
 
   updateUser(user: CreateUser) {

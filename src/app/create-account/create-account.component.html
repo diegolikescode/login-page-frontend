@@ -5,6 +5,11 @@
       <img id="login-svg" src="../../assets/logo.svg" alt="Velvet Morning">
 
       <div class="input-container">
+        <img src="../../assets/user.png" alt="e-mail"> <input [(ngModel)]="name" type="text" class="input-typing"
+          placeholder="nome">
+      </div>
+
+      <div class="input-container">
         <img src="../../assets/email.svg" alt="e-mail"> <input [(ngModel)]="email" type="text" class="input-typing"
           placeholder="e-mail">
       </div>
@@ -14,21 +19,11 @@
           class="input-typing" placeholder="password">
       </div>
 
-      <button type="submit" (click)="authenticateUser()">
-        <a routerLink="/welcome-page">
-          <div class="square">
-            <p>Login</p>
-          </div>
-        </a>
+      <button type="submit" (click)="createUserAccount()">
+        <div class="square">
+          <p>Create Account</p>
+        </div>
       </button>
-
-      <!-- <a routerLink="/forgot-password"> -->
-        <p>Forgot the password?</p>
-      <!-- </a> -->
-
-      <a routerLink="/create-account">
-        <p>New here? Click here to create an account</p>
-      </a>
     </div>
 
     <app-footer></app-footer>
