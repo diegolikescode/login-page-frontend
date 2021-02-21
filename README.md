@@ -25,19 +25,16 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
+ 
 ## :new_moon: POOL OF TODOS
 
-* [ ] review this shit
-* [ ] connect the frontend with the login-backend
-* [ ] create connection with endpoint that creates the session (log the user in the site)
-* [ ] create connection with endpoint that creates the user
-* [ ] make the site lighter
-* [ ] create a 'welcome page' route
-* [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
-* [ ] create the 'update user' page
-* [ ] create connection with endpoint that updates the user (thats the welcome-page)
-* [ ] search options request
+  * [ ] review this shit
+  * [ ] make the site lighter
+  * [ ] create a 'welcome page' route
+  * [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
+  * [ ] create the 'update user' page
+  * [ ] create connection with endpoint that updates the user (thats the welcome-page)
+  * [ ] search options request
 
 ## 🌗 LATER TODOS
 
@@ -65,6 +62,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [x] make the buttons a (clickable) button in the front-page
 * [x] make the buttons a (clickable) button in the login-page
 * [x] put the svgs inside the inputs in the login route
+* [x] connect the frontend with the login-backend
+* [x] create connection with endpoint that creates the session (log the user in the site)
+* [x] create connection with endpoint that creates the user
 
 </br>
 
