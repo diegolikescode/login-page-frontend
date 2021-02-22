@@ -9,7 +9,8 @@ import { FooterComponent } from './shared/footer/footer.component'
 import { ButtonComponent } from './shared/button/button.component'
 import { LoginPageComponent } from './login-page/login-page.component'
 import { FormsModule } from '@angular/forms';
-import { CreateAccountComponent } from './create-account/create-account.component'
+import { CreateAccountComponent } from './create-account/create-account.component';
+import { WelcomePageComponent } from './welcome-page/welcome-page.component'
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { CreateAccountComponent } from './create-account/create-account.componen
     ButtonComponent,
     LoginPageComponent,
     CreateAccountComponent,
+    WelcomePageComponent,
   ],
   imports: [
     BrowserModule,
