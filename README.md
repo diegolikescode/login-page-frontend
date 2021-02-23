@@ -25,16 +25,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
- 
-## :new_moon: POOL OF TODOS
-
-  * [ ] review this shit
-  * [ ] make the site lighter
-  * [ ] create a 'welcome page' route
-  * [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
-  * [ ] create the 'update user' page
-  * [ ] create connection with endpoint that updates the user (thats the welcome-page)
-  * [ ] search options request
 
 ## 🌗 LATER TODOS
 
@@ -45,7 +35,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 </br>
 
+## :new_moon: POOL OF TODOS
+
+  * [ ] create the 'update user' page
+  * [ ] create connection with endpoint that updates the user (thats the welcome-page)
+  * [ ] search options request
+
 ## :first_quarter_moon: DOING 
+
+  * [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
@@ -65,6 +63,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [x] connect the frontend with the login-backend
 * [x] create connection with endpoint that creates the session (log the user in the site)
 * [x] create connection with endpoint that creates the user
+* [x] make the site lighter
+* [x] create a 'welcome page' route
 
 </br>
 
