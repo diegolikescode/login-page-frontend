@@ -22,8 +22,6 @@ export class CreateAccountComponent implements OnInit {
     const email = this.email
     const password = this.password
     this.webRequests.createUser('user', { name, email, password })
-      .subscribe(() => this.router.navigateByUrl('/login'), err => {
-        console.log('FUDEU') // TODO: fix this mess
-      })
+      .subscribe(() => this.router.navigateByUrl('/login'))
   }
 }

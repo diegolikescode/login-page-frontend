@@ -43,7 +43,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :first_quarter_moon: DOING 
 
-  * [ ] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
 
@@ -65,6 +64,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 * [x] create connection with endpoint that creates the user
 * [x] make the site lighter
 * [x] create a 'welcome page' route
+* [x] create connection with endpoint that gets (and shows) the user (thats the welcome-page)
 
 </br>
 
