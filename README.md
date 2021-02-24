@@ -41,7 +41,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
   * [ ] create connection with endpoint that updates the user (thats the welcome-page)
   * [ ] search options request
 
-## :first_quarter_moon: DOING 
+## :first_quarter_moon: DOING
+
+* [ ] customize welcome-page
+* [ ] 
 
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
