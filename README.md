@@ -29,7 +29,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## 🌗 LATER TODOS
 
 * [ ] make animations (discover more about it)
-* [ ] make the site responsive for all screens and mobile devices
 * [ ] create a 'forgot-password' route
 * [ ] after working all, refactor all the code following [Angular Style Guide](https://angular.io/guide/styleguide)
 
@@ -37,14 +36,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## :new_moon: POOL OF TODOS
 
-  * [ ] create the 'update user' page
-  * [ ] create connection with endpoint that updates the user (thats the welcome-page)
-  * [ ] search options request
+* [ ] make the site responsive for all screens and mobile devices
+* [ ] create the 'update user' page
+* [ ] create connection with endpoint that updates the user (thats the welcome-page)
+* [ ] search options request
 
 ## :first_quarter_moon: DOING
 
 * [ ] customize welcome-page
-* [ ] 
+* [ ] make use of user data to display it in the welcome-page
 
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
