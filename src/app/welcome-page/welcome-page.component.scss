@@ -35,5 +35,18 @@
       }
       margin-right: 36vh;
     }
+
+    .userData {
+      margin-right: 35vh;
+      margin-bottom: 20vh;
+      display: flex;
+      flex-direction: column;
+      height: 5vh;
+      color: #c0c0c0;
+      font-weight: 700;
+      font-size: 2.8vh;
+      align-items: center;
+      justify-content: space-between;
+    }
   }
 }
