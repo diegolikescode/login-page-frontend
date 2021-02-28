@@ -44,6 +44,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## :first_quarter_moon: DOING
 
 * [ ] customize welcome-page
+* [ ] configure [Router Guardian](https://angular.io/guide/router)
 
 
 <img alt="JinxedFixed" src="./git_assets/jinxfix.gif" />
